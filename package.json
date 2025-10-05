@@ -19,3 +19,8 @@
   },
   "keywords": []
 }
+{
+  "scripts": {
+    "build": "echo \"No build needed\""
+  }
+}
