@@ -15,16 +15,8 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": []
-}
-=======
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "echo \"No build needed\""
   },
   "keywords": []
 }
-
->>>>>>> f8857c04978816dd3d365027b42cc1097113676f
